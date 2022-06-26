@@ -43,7 +43,24 @@ Linear Interpolation
 
 Circular Interpolation
 
-### output
+### output:
+
+![image](https://user-images.githubusercontent.com/94165326/175799983-19b08637-3cf7-442a-b87d-f8f83f0832f2.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799987-63321b0a-ff50-4046-8654-0692a98c4c36.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799989-8d222877-b290-4ca1-a929-6ac5ad710cf4.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799997-0f82932e-3b75-485d-8d90-7d4159589b18.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175800002-70b264b1-5348-4689-b758-deca83e5a2fe.png)
+## Linear Interpolation:
+![image](https://user-images.githubusercontent.com/94165326/175800021-1cf34980-99e1-4ff8-a204-ff53f1cd8b88.png)
+## Circular Interpolation:
+
+![image](https://user-images.githubusercontent.com/94165326/175800032-671b2a26-b51c-4204-83c9-9db17ff8ef80.png)
+
+
 
 
 
